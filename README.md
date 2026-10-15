@@ -52,7 +52,7 @@ Za više informacija o samom programskom jeziku i integraciji s LibreOffice/Open
 
 ## Autori i povijest razvoja
 
-* **Krunoslav Šebetić (2026)** - Ispravak i proširenje glavnih brojeva, izrada rednih brojeva te, uz pomoć umjetne inteligencije, implementacija generiranja decimalnih brojeva.
+* **Krunoslav Šebetić (2026)** - Ispravak i proširenje glavnih brojeva, izrada rednih brojeva te, uz pomoć umjetne inteligencije, implementacija generiranja decimalnih brojeva kruno.se@gmx.com
 * **Mihovil Stanić (2014)** - Prilagodba dijela koda za valute.
 * **Goran Rakić (2009)** - Izvorna srpska verzija na kojoj se temelji dio koda za valute.
 
@@ -65,6 +65,4 @@ Ovaj projekt je dostupan pod dvostrukom licencom (Dual-licensed):
 2. **GNU Lesser General Public License** (LGPL v3) ili novija
 
 Slobodno možete koristiti, modificirati i dijeliti ovaj kod uz zadržavanje informacija o autorima i iste licence.
-
-kruno.se@gmx.com
 
