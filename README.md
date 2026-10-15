@@ -16,14 +16,18 @@ Projekt podržava širok raspon pretvorbi:
 
 ---
 
-## Primjeri korištenja
+## Primjeri korištenja u LibreOfficeovu Calcu
+
+Potrebno je sa [stranice LibreOfficeovih dodataka](https://extensions.libreoffice.org/en/extensions/show/numbertext-1) preuzeti i instalirati proširenje `Numbertext`.
+
+Primjer formule: `=NUMBERTEXT(1235;"hr")` → `tisuću dvjesto trideset pet`.
 
 ### Glavni i decimalni brojevi
 * `0` → nula
 * `21.5` → dvadeset jedno cijelo i pet
 * `1000000` → jedan milijun
 
-### Redni brojevi (Ordinal numbers)
+### Redni brojevi
 Ovisno o kontekstu irodu, možete pozvati specifičnu funkciju:
 * `ord:12` → dvanaesti (muški rod)
 * `ord-fem:12` → dvanaesta (ženski rod)
