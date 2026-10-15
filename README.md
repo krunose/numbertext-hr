@@ -12,7 +12,7 @@ Projekt podržava širok raspon pretvorbi:
 | **Negativni brojevi** | Podrška za minus predznake | `-15` → minus petnaest |
 | **Decimalni brojevi** | Sklanjanje uz riječ "cijelo/cijela/cijelih" | `1.5` → jedno cijelo i pet<br>`2.3` → dva cijela i tri |
 | **Redni brojevi** | Podržana sva tri roda (muški, ženski, srednji) | `ord:1` → prvi<br>`ord-fem:1` → prva<br>`ord-neu:1` → prvo |
-| **Valute & Novčani iznosi** | Automatsko dodavanje valuta i sklanjanje | `101 kn` → sto jedan euro<br>`5.50 €` → pet eura i pedeset centi |
+| **Valute i novčani iznosi** | Automatsko dodavanje valuta i sklanjanje | `101 EUR` → sto jedan euro<br>`5.50 €` → pet eura i pedeset centi |
 
 ---
 
